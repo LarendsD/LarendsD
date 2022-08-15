@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-Tim-him@mail.ru
+Tim-him98@mail.ru
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

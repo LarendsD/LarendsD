@@ -5,8 +5,6 @@
 
 - 👨‍💻My project №1 [Task Manager](https://github.com/LarendsD/backend-project-lvl4)
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 👨‍💻My project №2 [Difference Generator](https://github.com/LarendsD/backend-project-lvl2)
 
 - 👨‍💻My completed test tasks from companies: https://github.com/LarendsD/node.js-test-task

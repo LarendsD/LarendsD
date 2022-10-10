@@ -9,6 +9,10 @@
 
 - 👨‍💻My project №2 [Difference Generator](https://github.com/LarendsD/backend-project-lvl2)
 
+- 👨‍💻My completed test tasks from companies: https://github.com/LarendsD/node.js-test-task
+
+- 💻Active contributor of open-source project Runit: https://github.com/Hexlet/hexlet-editor
+
 - 👨‍💻 All of my projects are available at [https://github.com/LarendsD](https://github.com/LarendsD)
 
 - 📫 How to reach me **Telegram: @Timyrhab**

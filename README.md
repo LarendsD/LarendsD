@@ -9,7 +9,7 @@
 
 - 👨‍💻My completed test tasks from companies: https://github.com/LarendsD/node.js-test-task
 
-- 💻Active contributor of open-source project Runit: https://github.com/Hexlet/hexlet-editor
+- 💻Active contributor of open-source project Runit: https://github.com/LarendsD/runit
 
 - 👨‍💻 All of my projects are available at [https://github.com/LarendsD](https://github.com/LarendsD)
 

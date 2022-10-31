@@ -7,6 +7,8 @@
 
 - 👨‍💻My project №2 [Difference Generator](https://github.com/LarendsD/backend-project-lvl2)
 
+- 👨‍💻My project №3 [Brain Games WEB](https://github.com/LarendsD/brain-games-web)
+
 - 👨‍💻My completed test tasks from companies: [https://github.com/LarendsD/node.js-test-task, https://github.com/LarendsD/test-assigments]
 
 - 💻Active contributor of open-source project Runit: https://github.com/LarendsD/runit

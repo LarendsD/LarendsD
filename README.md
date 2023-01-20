@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=larendsd&show_icons=true&locale=en&layout=compact" alt="larendsd" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LarendsD)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LarendsD)](https://github.com/anuraghazra/github-readme-stats)
